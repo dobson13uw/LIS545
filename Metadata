@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://datacite.org/schema/kernel-4"
+          xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4.5/metadata.xsd">
+  <!-- No DOI available at time of writing. -->
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Darwood, Hugo</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Epicurious - Recipes with Rating and Nutrition</title>
+  </titles>
+  <publisher>Kaggle</publisher>
+  <publicationYear>2017</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+  <subjects>
+    <subject>recipes</subject>
+    <subject>nutrition</subject>
+    <subject>ratings</subject>
+    <subject>Epicurious</subject>
+  </subjects>
+  <dates>
+    <date dateType="Created">2016-12-25</date>
+    <date dateType="Updated">2017-02-21</date>
+  </dates>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URL">https://www.kaggle.com/datasets/hugodarwood/epirecipes</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relationType="IsDocumentedBy" relatedIdentifierType="URL">https://www.kaggle.com/datasets/hugodarwood/epirecipes/code</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights>License unknown</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Recipes from Epicurious by rating, nutritional content, and categories.</description>
+    <description descriptionType="Other">Approximate publication year set to 2017 (circa) based on dataset activity around early 2017 on Kaggle.</description>
+  </descriptions>
+  <language>en</language>
+</resource>
