@@ -1,4 +1,4 @@
-# LIS545
+# LIS545 - Recipe Data for LLM Training
 LIS545 final project Github repository
 
 This repository includes all materials submitted for the LIS545 final project. 
